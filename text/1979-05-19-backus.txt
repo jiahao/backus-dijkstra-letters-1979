@@ -1,0 +1,60 @@
+May 15 1979
+Burroughs Mission Viaje
+714 768 2170
+
+Prof. Dr. Edsger W. Dijkstra
+Plataanstraat 5
+5671 AL NUENEN
+THE NETHERLANDS
+
+Dear Edsger,
+
+Thanks for you letter of April 24 ; I apologize for the delay
+in answering. I am happy to hear that you will give a talk at
+the IBM San Jose Lab. I am pleased to report that I have been
+able to arrange for special honorarium in your case, thus I can
+say that the lab offers to pay your local expenses (travel, lodging,
+meals, etc.) associated with your visit to the lab , plus an honorarium
+of $300. Any day in August or September that you suggest will be
+fine (although John William hopes it won't be in the week of August
+20, since he will be on vacation then). I presume that you may want
+to come in the latter part of the week of August 6, or the early
+part of the week of September 3; if so, IBM will of course cover
+your expenses over the weekend and so forth, before the Programming
+Methodology Institute, or after the WG 2.3 meeting. If you have any
+further requirements, please let me know.
+
+Do you plan to attend the whole two weeks of the Institute? the
+whole week of the WG meeting ? I tentatively plan to attend most of
+the Institute meetings; if you do too, we shall have plenty of time
+to compare notes and debate the relative merits of our two approaches.
+I have been looking at combining the two: applying methods motivated
+by yours and Tony's to what I consider better languages. I have
+hopes that the result will be even better precision and concision of
+expression plus theorems of greater generality and usefulness that
+can be used to help guide the construction of a program and
+to guarantee its correctness. We shall see.
+
+If you will end me an abstract of your talk, it will
+help in publicizing it. (By the way, the topic you suggest
+sounds very interesting, there are a number of people at the
+lab who are interested in distributed computation.) There
+is considerable excitement here at the news that you will be
+giving a talk. I plan on having it publicized in the San Jose
+R search lab, the Santa Teresa lab (develops programs, quite
+a large place), the Loa Gatos lab, and a number of other IRM
+places in the Bay Area.
+
+In closing, let me say that I appreciated your last letter.
+
+Best regards,
+
+John Backus
+91 Saint Germain Avenue
+San Francisco, CA 94114
+
+
+bcc: W. F. King,  S. P. Ghosh, J. H. Williams
+
+P.S We would like to invite you to have dinner
+with a small group of us the evening of your talk.

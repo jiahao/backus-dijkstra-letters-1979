@@ -1,0 +1,92 @@
+John Backus
+91 Saint Germain Avenue
+SAN FRANCISCO, CA 94114
+U.S.A.
+
+24th April 1979
+
+Dear John,
+
+thank you very much for your --also nice !-- letter of 18th April 1979.
+You are very honest and the letter is illuminating . You write:
+
+"The real course of computer science i s determined, in the long run at
+least, by new truths and discoveries, new techniques , new insights not by
+the opinions of people without "independent judgement" that are influenced
+by political pamphlets."
+
+Yes, of course, but! I would fully agree if everybody who could contribute
+would ignore what you call "the ninnies"; if that condition were satisfied
+we would live in an almost ideal world. The sad fact is that ninnies do have
+influence, for instance in the process of assigning research budgets. Not
+the opinion of ninnies, but the possible consequences of their opinions is
+what matters: by diverting research opportunities they can easily retard
+progress very much. For instance, writing the DM/L/P rebuttal was not fun
+at all. Yet someone had to do it, someone had to accept that task, no matter
+how unpleasant! In retrospect I am glad someone did it. Messages of "thanks"
+have reached me from officers of funding agencies, who found themselves in
+· great difficulties when defending some research proposals in which they believed
+for good reason, but found themselves unable to convince their superiors
+, because their superiors had received the DM/L/P paper, the contents of
+which were taken as the gospel truth --mainly on the authority of P.-- .
+The lower officers were grateful for my rebuttal which served as an antidote.
+You may regret this state of affairs as much as I do, but there is no point
+in denying it.
+
+You write:
+
+"I am interested in trying to understand what is and what isn't useful
+and important; my paper was a sincere effort to explain some insights that
+took me a lot of effort to acquite and that I hoped would be _useful_ to others
+who do have independent judgement."
+
+Sure, I fully believe you. But again: it is not the one with independent
+judgement I was worried about! I don't need to help him to make up his mind!
+I was worried about the impression made upon the non-expert --the "ninny"--
+whose opinion matters for the sake of its consequences. I had good reason
+to be worried about that. You are not the person to be overawed by the
+"glamour" [my god!] of the Turing lecture, but, regretfully enough, not all
+people a re that immune. Please reread the first paragraph of p.2 of my pre-
+vious letter --in the meantime you are free to change the word "hope" of the
+3rd line into "fully trust"-- .
+
+-2-
+
+When you write in the first paragraph of your last letter "I cannot under-
+stand why an egoless person should be interested etc.". Well, to put it
+bluntly : to repair some of the havoc of unbalanced opinions that you had
+created. And again : whether these were the opinions of people you care
+about, is neither here nor there.....
+
+You write "What am I to make of this response? " Can I help you by
+stressing that I make a great difference be tween "your work" and "your
+Turing lecture"? I regard --and continue to regard-- your work (as I wrote)
+as "a valid research effort".
+
+I must, finally, ask you again not to try to understand me in the
+psychologist's jargon. I know enough Latin to know what "ego" meant originally ,
+I also know enough Greek to know what "hubris" meant originally, but as
+technical terms of the psychologist we don't find them very helpful. As long
+as you insist on explaining my behaviour in those terms, my letters will
+remain "puzzling", I am afraid.
+                            *               *
+                                    *
+
+I would be delighted to give a talk at the San Jose IBM Laboratory;
+visiting the place will be a new experience for me, I have never been in
+San Jose. I think that a rather recent result --the detection of termination
+of diffusing computations-- would be an appropriate topic. I once showed it
+to my students, and could do so in twice 45 minutes, but it was almost the
+first instance they saw --from me, at least-- of distributed computations.
+
+With my greetings and warmest regards,
+yours ever,
+
+prof.dr.Edsger W.Dijkstra
+Burroughs Research Fellow.
+
+P.S.  Peace!
+               EWD
+
+normal: 1 15 lecture
+1 hr discussion after lecture

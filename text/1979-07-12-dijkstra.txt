@@ -1,0 +1,67 @@
+to John Backus
+91 Saint Germain Avenue
+SAN FRANCISCO, CA 94114
+U.S.A.
+
+12th July 1979
+
+Dear John,
+
+my schedule is very tight, and I am afraid that I
+must disappoint John Williams: Monday 20 or Tuesday 21
+August seem the only two slots that are really available.
+
+I shall arrive in the YSA on Sunday 29th July, and
+had already committed myself for the week of Monday
+20 July to Burroughs in Mission Viejo. My wife and
+the two youngest children will join me for the first
+three weeks of the trip, and the week of 6th August
+was planned as "the real holiday." Since then Bill
+McKeenan has twisted my arm: the programming
+course to be given that week was so heavily over-
+booked that he asked me to give a second course,
+in parallel to David's. Under those circumstances
+I would like to avoid further commitments in
+the week starting on Monday 13: it is their last
+week in the USA, and I have then been working
+almost all the time!
+
+Immediately after WG2.3 I shall go to Austin,
+Texas (Burroughs and University), and then home!
+If I have a completely free choice, I think I
+would prefer Monday 20 slightly over Tuesday 21.
+
+-2-
+
+Talk Aug 20 1 30 pm by Prof Dijkstra
+IBM Research Lab, San Jose
+
+Now title and abstract:
+
+Title: Termination Detection for Diffusing Computations
+
+Abstract: The activity of a finite computation may
+propagate over a network of machines, when machines
+may delegate (repeatedly) subtasks to their
+neighbours; when such a computation is fired
+from a single machine, we call it "a diffusing
+computation". We present a signalling scheme
+-- to be superimposed on the diffusing computation--
+enabling the machine that fired it to detect its
+termination. Our signalling scheme is perfectly
+general in the sense that, independently of the
+topology of the network, it is applicable to
+any diffusing computation. (End of abstract.)
+
+Please give my regards to John Williams and tell
+him how sorry I am that I shall miss him. I
+am not familiar with distance and transport facilities
+between Santa Cruz and San Jose. If it is better
+when I come to San Jose the day before that
+is fine with me; may I leave the logistics to
+you? (Wife and children leave on Friday 17th August.)
+With my greetings and best wishes,
+
+yours ever
+
+Edsger

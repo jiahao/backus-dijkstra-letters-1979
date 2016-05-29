@@ -1,0 +1,131 @@
+John Backus
+91 Saint Germain Avenue
+SAN FRANCISCO, California 94114
+U.S.A.
+
+5th of April 1979
+
+Dear John,
+thank you for your long --and nice!-- letter of March 28, 1979,
+which arrived this morning. Let me quote from a letter from an other friend
+who commented on EWD 692:
+
+"[you wrote] "show how repetitive Backus writes". An adverb is required.
+But better "to reveal his repetitious style".
+
+I get the impression that Backus annoyed you by his ill-founded attack
+on proofs of program correctness. But your defece (on page 1) is really
+rather brief. Your counterattack concentrates on:
+(1) the inefficiency of functional forms, even on highly parallel
+hardware
+(2) the inconvenience of using combinators rather than named formal
+parameters
+(3) the tedium of algebraic proofs
+(4) repetitious style, and agressive overselling.
+
+I do not know how widely you propose to distribute EWD692. In a way I hope
+not too widely. But in another way, your defence of the use of logic should
+be promulgated very widely indeed. Could I persuade you to moderate the tone
+and narrow the range of your counterattack to points (1) and (2)?
+
+My own view is that abstract functional techniques provide a valuable
+mathematical tool for the formulation and solution of certain kinds of problem.
+We should certainly not exclude it from our intellectual repertoire."
+
+For you information I quote from my answer:
+
+"That I wrote an adjective instead of an adverb was stupid, for I
+know the rule perfectly well. My problem is that in Dutch the adverb has
+all but disappeared a few centuries ago, and when writing English I have to
+apply the rule consciously. Thanks for the reminder.[...]
+EWD692 is not intended for wide distribution, it betrays too much an-
+noyanceat the fact that Backus presented his thing by way of Turing lecture,
+the glamour of which immediate caused the significance of functional pro-
+gramming to be overrated beyond justification. I noticed false hopes within
+[... ... ...]and some compensating noises seemed required; EWD692, I am
+happy to report, has done its job. Your points
+(1) the inefficiency of functional forms, even on highly parallel
+hardware
+(2) the inconvenience of using combinators rather than named parameters
+need to be stressed, and I am sure that both you and I shall do so, but if
+we wait a little while, we can do so without mentioning John Backus in par-
+ticular. With your view of "abstract functional techniques " I agree : they
+are safe tools, so let's use them by all means whenever they are appropriate!"
+
+-2-
+
+I trust that the above quotation from my letter explains what EWD692
+was: a political pamphlet where a political pamphlet seemed needed, a need
+that, I hope unintentionally , you yourself had created . My guess is that,
+had you fully realized the glamour of the Turing Lecture --and the lack of
+independent judgement of most of its audience-- you had made more sober use
+of your eloquence.
+
+You raise the question why I did not send you a copy . Of course I
+thought about it. I can reassure you that it was not that I was "too embarrassed".
+Well, you have given the answer yourself on page 4 of your
+letter "Perhaps the worst aspects of an emotional attack such as EWD692
+is that it tends to cut off technical communication." Between you and me
+I definitely prefer to discuss on the technical level our subject deserves.
+So, why polute it by politics?
+                              *               *
+                                      *
+
+Allow me to correct an erroneous impression your letter tells me I have
+made. You write in the 3rd paragraph "It seems to me (and to many others,
+I assure you) that some of your recent polemics are based too much on a need
+to be at stage center and to thrust your private opinions at the public on
+the basis that since they are the opinions of Dijkstra they must be right and
+do not need the careful justification that the opinions of others require."
+I am unaware of any "need to be at stage center", on the contrary! The vast
+majority of invitations to speak I decline, almost none of my writings are
+submitted for publication , and I send my writings to about a dozen people.
+Does that reveal "a need to be at stage center"? I don't think so. And
+what "recent polemics" did you have in mind? My comments on the DoD languages?
+If so , it might clarify the situation for you to know that I did not offer
+them to the SIGPLAN Notices, but that their editor asked me whether he would
+be allowed to include them. And for the fact that they contained "my private
+opinions" no apology is needed: that was what had been asked for by the DoD.
+Dr do you have my comments on the DeMillo/Lipton/Perlis paper in the Software
+Engineering Notes in mind? Again I draw your attention to the fact that they
+have been included upon their Editor's request, and that I abstained from
+joining the subsequent discussion. (I shall not deny that my comments on
+the DM/L/P papers were composed as disagreeable as I could make them! The
+blokes had asked for such a treatment, and I was perfectly willing to show
+them that two could play at that game.)
+
+Furthermore you need not worry about my "ego"; in large parts of my
+country the "ego" is considered as a not very helpful invention of t he
+psychologists and we very much doubt whether it makes much sense t o have
+one: "explanation" of people's behaviour in terms of it is seldomly inspiring .
+                              *               *
+                                      *
+
+One technical point. I did indeed doubt whether you had grasped the
+full implications of axiomatic semantics, viz. that they can be used to de-
+fine programming language semantics independent of any underlying computational
+
+-4-
+
+model , and subsequently allow you to deal with the correctness issue fully
+ignoring that the program text allows admits the interpretation of executable
+code. Once you have learned how to reason about the correctness of programs
+without dragging computational histories into the picture,the arguments doing
+the latter become very clumsy and unconvincing indeed. Your letter --referring
+to "the object program machinery that replaces formal variables by actual
+one" that a program may or may not require-- only confirm that doubt.
+                             *               *
+                                     *
+
+I was very sorry to read that yours was a difficult letter to write .
+For that difficulty I owe you my apologies. Although..... it was a pleasant
+letter to receive and good old Samuel Johnson already stated that "What is
+written without effort is in general read without pleasure."
+
+Or to end with another Johnsonian quotation "A man, Sir, should keep
+his friendship in constant repair."
+
+With my greetings and best wishes,
+yours ever,
+prof.dr.Edsger W.Dijkstra
+Burroughs Research Fellow

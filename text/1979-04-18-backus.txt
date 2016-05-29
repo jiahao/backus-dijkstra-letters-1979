@@ -1,0 +1,111 @@
+April 18, 1979
+
+Prof. Dr. Edsger W. Dijkstra
+Plataanstraat 5
+5671 AL NUENEN
+The NETHERLANDS
+
+
+Dear Edsger,
+
+I returned yesterday from a brief vacation to find your
+friendly response to my letter. I am pleased that you found my
+letter "nice" and "pleasant to...receive". Nevertheless your letter
+was puzzling. You write what you yourself call a "political pamphlet"
+in an effort to do a political hatchet job on a serious and long
+effort of mine to make a contribution to our field, you distribute
+it behind my back, I reproach you for this; what is your explanation?
+You say that the "glamour" [my god!] of the Turing lecture had apparently
+raised "false hopes" among some people without "independent judgement"
+about the possibilities of functional programming, and that therefore
+"some compensating noises seemed required". I can't understand why
+an egoless person should be interested in influencing the opinions
+of a mass of people without independent judgement about the work of
+someone else, and not even by honest argument and analysis, but by
+a cynical and invidious "political" hatchet job ("I am reminded of
+the [NATO] general ... " and other such gems). Apparently you feel
+satisfied that your prestige has convinced these ninnies without any
+sense of their own to believe your hatchet job, and you seem well
+satisfied with your handiwork, and suffer not the slightest embarrass-
+ment.
+
+What am I to make of this response? You have informed me that
+with respect to my work and god knows what else, you are a politician
+rather than a computer scientist. I accept that if you really wish me
+to. I really don't care if by chance I convinced someone, or even
+hordes of people without independent judgement, that functional programming
+is the best thing since sliced bread, or if your hatchet job caused them
+to reverse their view entirely. I'm interested in trying to understand
+what is and what isn't useful and important; my paper was a sincere
+effort to explain some insights that took me a lot of effort to acquire
+and that I hoped would be _useful_ to others who do have independent
+judgement.
+
+My letter was an effort to point out to you both the dangers of
+emphasis on political rather than computer science activities,
+and the cause for that emphasis. Apparently you cannot see the danger
+and even less the cause. That saddens me because it means that in-
+evitably you will waste a lot of your time and talent. If you cannot
+even suspect your efforts to woo the "great unwashed masses" with EWD 692
+(for who else would take seriously such a hasty and obvious political
+pamphlet?) was a consequence of hubris, if you really believe you are
+free of a problem that affects all of humanity, and you more than most,
+then I cannot help you.
+
+-2-
+
+At least let me point out on the practical level, a fact about
+political activities such as we are discussing. The real course of
+computer science is determined, in the long run at least, by new
+truths and discoveries, new techniques, new insights, not by the
+opinions of people without "independent judgement" that are influenced
+by political pamphlets. Thus Demillo-Lipton-Perlis might influence
+a lot of ninnies with their political pamphlet , and yours might change
+their minds again, but in the long haul the fate of program verification
+depends on the realities of the progress made in the field and its
+real usefulness as determined by competent people who can see for them-
+selves what the facts are. Neither their "ugly" paper nor your nasty
+reply will have much bearing on the outcome, except that a lot of
+ninnies will be induced to cheer for one side or the other.
+
+Similarly, if it turns out that the proposals I have made have
+flaws that make them useless, EWD6 2 will not contribute to their
+discovery and will then appear as the foolish tempest in a teapot
+that it is. If it turns out otherwise, EWD692 will appear as evidence
+of your poor insight and envious hostility. In either case you will
+have wasted time and tarnished your reputation.
+
+I am sorry that your friend feels that I have mad e an "ill-founded
+attack on proofs of program correctness". Perhaps you feel that too.
+I assure you that was not my intent, and I think that if your friend
+were to read carefully, he would find that I am attacking certain
+properties of programming languages that make proofs more difficult
+and less general than they might otherwise be; but I do not attack
+proofs of correctness, in fact I express considerable admiration for
+work in that area. I hope to clarify the language properties that
+will contribute to the existence of more general theorems about programs
+in a paper I'm working on. If you and your friend can take time out
+from your political campaign to discredit this work, you might find
+that you will be able to make good use of such properties in languages
+that suit you better than mine and thereby find that, when applied to
+such languages, your own proof techniques will look even better than
+they do now and produce more general and useful theorems about larger
+classes of programs.
+
+Thank you for your friendly letter. I have always had considerable
+respect for a computer scientist named EWD. Until recently I did not
+know there was a rather rascally politician of the same name; I still
+wish I hadn't encountered him and hope that he will not continue to
+blight our relationship in the future.
+
+Peace
+
+John Backus
+91 Saint Germain Avenue
+San Francisco, CA 94114
+
+PS. Would you be interested in giving a talk at the
+San Jose IBM Lab during your stay on the
+West Coast? Many of us would be delighted to have
+you do so - I hope you will. If so, let me know + we
+can discuss arrangements, honorarium, etc.
