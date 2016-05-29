@@ -1,0 +1,227 @@
+March 28, 1979
+
+Prof. Dr. Edsger W. Dijkstra
+Plataanstraat 5
+5671 AL NUENEN
+THE NETHERLANDS
+
+Dear Edsger,
+
+I have counted you among my friends for some time now and thought
+that you counted me among yours; you must tell me whether you still
+wish me to continue doing so after you read this. For I propose
+to take on a burden of friendship that I hope will be of some help
+to you although it is perhaps bitter medicine-if you can swallow
+it at all. I propose to discuss with you as a friend (although
+perhaps with some bitterness that comes from my own large ego, which
+I shall try to keep in check) the sad impairment of your great
+abilities and your reputation as a creative thinker that result from
+your powerful and self-indulgent ego.
+
+It is indeed depressing to anyone who respects your truly exceptional
+talents to see you of late apparently spending a great
+deal of time on shallow, negative polemics that contribute almost
+nothing in the way of real knowledge or deep truths to the subject
+matter they deal with. Instead of utilizing your major talents
+in the difficult business of discovering new viewpoints, and new
+understanding and techniques, you make a spectacle of yourself
+indulging your minor talent for innuendo and derogation. There are
+occasions on which it is desirable for a person with an outstanding
+reputation to devote some effort to pointing ·out the flaws in
+a significant proposal. But it is fatuous to waste time attacking
+one so weak that it can be demolished by high school debating
+tactics that avoid serious consideration of fundamental issues
+and deal only in hostile innuendoes, unsubstantiated arrogant
+opinions, and trivial nitpicking.
+
+It seems to me (and to many others, I assure you) that some of
+your recent polemics are based too much on a need to be at stage
+center and to thrust your private opinions at the public on the
+basis that since they are the opinions of Dijkstra they must be
+right and do not need the careful justification that the opinions
+of others require. Since it concerns me the most, let me try to
+trace with you the harmful consequences of hubris that are to be found
+in EWD692.
+
+First, you have wasted I do not know how much time in writing
+a five page review about an article that interests you so little
+that you have barely read it and have thought about it almost not at
+all . I really would have been pleased had you raised some important
+issues or criticisms about it; this might have led to an interesting
+and perhaps useful debate. But since you begin with an ego-driven
+impulse to attack and "grandstand" rather than understand, your
+review deals consistently with trivial matters.
+
+                              -2-
+
+For example, had you been concerned with under st anding, instead
+of your waspish remarks about my claim that there are advantages
+in having a programming language that can also serve as a proof
+language, you might have begun a significant debate concerning the
+relative merits of equational theories versus full logical systems.
+You might have observed that while equational theories provide simpler
+techniques for answering certain questions, there are many other
+questions that cannot be phrased in such a theory. There are many
+further interesting issues of this sort that you might have considered.
+
+Another example of how your animus in the review has driven you
+to make remarks that are both trivial and not quite fair: in the only
+other part that even pretends to deal with substantive matters, you
+make much of the fact that it is easy, if one does the most obvious
+thing, to implement the matrix multiplication program in an inefficient
+way. In doing so you leave your readers with the impression that
+this is something you have discovered that I am unaware of, whereas you read
+it in my discussion of the program. You fail to observe that, if
+one does the obvious thing, it is easy to implement the Algol program
+in an inefficient way also. You also fail to note that it is obviously
+not so hard to implement the functional program without making the
+copies you suggest.
+
+Your remark that my claim that my program does not name its
+arguments is "silly" shows how your arrogance and consequent failure
+to think carefully leads you to make erroneous and shallow comments.
+As noted earlier in my article, [ 5.1 (f) and 5.2 (f)], the point of the
+remark that the matrix program does not name its variables is
+that it does not require a procedure declaration nor the accompanying
+object program machinery that replaces formal variables by actual
+ones. Your suggestion about using "parl" etc in Algol would not
+eliminate the need for such machinery. (Since this machinery
+forms one of the principal stumbling blocks to the convenient
+use of the proof methods you and Hoare have pioneered, it is surprising
+that you should be so blind to this point.)
+
+This recital is becoming too long, yet there are many further
+indications of how your ego and/or your instinct to attack, rather
+than inquire, damage your ability to see clearly and to conduct
+yourself with the reasonableness and fairness that could be expected
+of someone in your position. Here are just a few:
+
+1) You distributed your review to your EWD "subscribers" without
+doing me the courtesy of sending me a copy, although you could well
+have sent me an advance copy -- had you done so, I could have helped
+you raise the level of debate above the trivial and saved you, I
+believe from some ridicule. Were you perhaps too embarrassed to
+send me a copy? I can readily see that you might have been.
+
+2) You dismiss in one sentence the substantive part of the section
+that claims to make a contribution to proving facts about programs
+(algebra of programs), an area to which you have made important
+contributions. Does your ego prevent you from even looking at
+
+                                  -3-
+
+an alternative approach, from seriously considering its pros and
+cons? You seem to be unable to find a single worthwhile contribution
+in the article. Having found nothing of merit, why bother to write
+a review? Is your conceit so great that you feel that your hasty, ill-
+considered opinions are so vital to the world that it is worthwhile
+to spend your time on such a review?
+
+3) You speculate [p1] on the basis, I presume, of my 2.1.3 and 2.2.3
+that I do not understand the ideas of axiomatic semantics. You
+were wrong again. And gratuitously offensive.
+
+4) Let me conclude this list with a constant practice of yours, in
+this as well as in many other reviews, that you should be a ware of,
+because . although it is a ludicrous matter, it a muses many people
+mightily at your expense. I refer to your practice of making much
+of people's mistakes in their use of English, by out right remarks,
+by numerous "[sic!]"s and the like. This would merely be unpleasant
+and result in hurt feelings were it not for the fact that the author
+of these snide comments himself commits some of the most glorious
+atrocities to be found in English. The result is indeed humorous,
+but it is scornful humor and I don't like to see you making yourself
+the butt of it. In case you doubt me, let me cite a few examples
+from EWD692: p2: "The question should be raised what we have achieved.
+Have we done more than creating a new environment for optimizing compilers?"
+I believe this might be better phrased "The question should be raised:
+what have we achieved? Have we done more than create a new ... "
+p3: " ... in order to show how repetitive Backus writes" should be:
+" ... how repetitively Backus writes" Another gem on p3: " ... laboriously
+belaboring the obvious." The point is that we all make such trivial
+errors, even EWD, and private friendly help is more in order than public
+venom.
+
+In private relationships you have always seemed to be decent,
+friendly and ready to help your colleagues. But when you go public
+it appears that your ego goes ape, and you display a number of un-
+pleasant qualities. Perhaps you were unaware of how you then appear
+to others; I imagine you were. Perhaps no one has taken on the un-
+pleasant task of trying to show you this. Since I would like to
+continue to regard you as a friend, I am obliged to try; for if you
+continue t o use me as you have on this occasion, it will be difficult
+for us to have a good relationship. I hope I have not been excessively
+harp in my criticism; I really do hope it will have some positive value
+or you. Had I not had considerable admiration and good feeling toward
+you to begin with, I assure you I would not have taken the trouble t o
+write this difficult letter.
+
+Part of my feeling toward you is founded on a sense of comrade-
+ship that comes from the struggle of doing creative work, work that
+is something exhilarating and often discouraging and painful. One
+develops a special regard for others who share in this search for
+truth and endure the many defeats that come before one can isolate
+a new bit of truth. Until recently I had regarded you as someone
+dedicated to discovering the deepest truths you could find. Now
+
+                                  -4-
+
+I am confused, but, as I hope you see, I attribute your recent polemics
+to the ego factors I have tried to illustrate. For your own sake, it
+is important to observe that your ego-related emotions have at times
+corrupted the respect for truth that one finds in your work at
+its best, that they make you appear instead as merely testy, arrogant
+and opinionated. One of the crucial battles we all must fight
+if we are interested in the truth is the battle with our own ego,
+the primary enemy of objective truth.
+
+What dismayed me about EWD6 92 was its lack of respect for a co-
+worker, for his dedication, like yours, to finding some useful truths.
+If you are going to attack, do it well, do it with respect, think it
+out. Don't rely on waspish comments and innuendo. Your attack was
+emotional, not well thought out, trivial.
+
+Perhaps the worst aspect of an emotional attack such as EWD692
+is that it tends to cut off technical communication. Try to imagine
+how someone in my position would feel about sending you any comments
+or papers. I would feel rather foolish about discussing problems, say,
+about correctness proofs with you, since you have given indications
+of some animus that prevents you from taking my comments seriously,
+that compels you to attack them without understanding them. I do
+hope there is some way this situation can be rectified . This was
+not the situation at all with the very nice letter you sent in May
+1978. It was so completely different in tone from EWD692 that the
+latter was a surprise.
+
+I do owe you an apology for being so extremely slow in answering,
+but I believe that you already realize from conversations with
+John Williams in Germany that he and I have devoted a lot of attention
+to the problem you posed in it. The reason it has taken so long
+is that we had hoped to find a proof of the equivalence of the
+two programs that was general, based only on their structure,
+not on the particular functions used in the structure. We have
+done this -- almost. It turns out that one can transform these
+programs structurally -- ignoring their constituent functions ---
+to two programs that are almost identical; but the equivalence
+of the two ultimately depends on the details of the constituent
+functions.
+
+I have also given a lot of thought to some of your other remarks
+in your letter, but under the present circumstances am hesitant about
+discussing them with you. I am not giving up on maintaining our relationship
+if you wish to continue it, but as you can see I am in need of
+some clarification. You might be interested to compare your letter, - with
+its friendly and helpful tone, with your remarks in EWD692: I enclose
+a copy. The contrast is puzzling: which of the two EWD's are you?
+
+Well, Edsger, I look forward to hearing your reaction. I do hope
+that you will recognize that, although I have said some things that you
+will not enjoy hearing , I have said them in an effort to continue a
+relationship that I have valued and that would have become impossible
+otherwise. I hope you will find this letter of some value to you , and
+that we can straighten these difficulties out.
+
+Sincerely
+John Backus
+91 Saint Germain Avenue
+San Francisco, California 94114
