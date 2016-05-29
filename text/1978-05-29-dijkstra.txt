@@ -1,0 +1,136 @@
+to John Backus
+   International Business Machines Corporation
+   5600 Cattle Road
+   SAN JOSE CA 95193
+   U.S.A
+
+                         Monday 29th of May, 1978
+
+             “To interrupt one’s own researches in order to
+             follow those of another is a scientific pleasure
+             which most experts delegate to their assistants.”
+                   (Eric Temple Bell in
+                        “Development of Mathematics”)
+
+   Dear John,
+
+     I do not claim to be more noble or sensible than “most
+   experts”; perhaps it is only becauseI have only one
+   assistant to whom I can delegate no more than one
+   man can do. But when you open your letter with:
+       “I am quite sure that you have never read
+       any paper I’ve sent you before”
+   it is my pleasure to inform you that - although
+   “quite sure” - you were very wrong. I very well
+   remember that you mailed me a sizeable paper
+   on reduction languages to which I owe my introduction
+   to that subject. I didn’t only read it, parts of it
+   were even studied. I also remember that it left me
+   with mixed feelings.
+
+     I can very well understand your excitement, although,
+   for lack of experience, I still cannot share it. I am
+   far from delighted with the state of the art of programming
+   today, and anyone suggesting an alternative has in
+
+
+   in [sic] principle my sympathy - until, of course, he loses it again,
+   like Terry Winograd did when he suggested natural language
+   programming - “natural descriptions”! - as an alternative-.
+   In the long run I have more faith in any rephrasing of the
+   programming task that makes it more amendable to mathematical
+   treatment. But you must have lots of patience, for the
+   run will be very long. It isn’t just mental inertia - that
+   problem can be solved generally by education a new
+   generation of youngsters and waiting until the old ones
+   have died - . It is the development of a new set of
+   techniques needed to achieve a comparable degree of
+   proficiency.
+
+   Could you get me a copy of G.A. Mago’s (not
+   yet published) “A network of microprocessors to execute
+   reduction languages”? That might whet my appetite!
+   From various angles I have looked into such networks
+   and I am not entirely pleased with what I have
+   seen. Firstly I suspect our techniques for proving the
+   correctness of such designs: each next proof seems to
+   differ so much from all the previous ones. I suspect
+   I discovered that all I could design were special
+   purpose networks, which, of course, made me suspect
+   the programming language in the Von Neumann style
+   which, already before you have chosen your problem,
+   seems to have set you on the wrong track.
+
+      Semantically speaking the semicolon is, of course,
+   only a way of expressing functional composition: it
+   imposes the same order that can also be expressed
+   with brackets - innermost brackets first -. In combination
+   with the distribution you can generate many innermost
+
+
+   bracket pairs, thus expressing very honestly that it is
+   really only a partial order that matters. I like that,
+   it is honest.
+
+   When you write “one can transform programs [....]
+   by the use of laws [...] which are _part of the program-
+   ming language_” etc. I am somewhat hesitant. I am
+   not convinced (yet?) that the traditional separation in
+   fixed program, variable data and assertions is a
+   mistake. The first and the last - program and assertions -
+   are somewhat merged in LUCID, in which correctness
+   proofs are carried out in (nearly) the same formalism
+   as the program is expressed in. On the one hand that
+   presents a tempting unification, on the other hand I
+   thought that mathematicians speerated carefully and
+   for good reasons the language they talk about and
+   the metalanguage in which they do so. To put it in
+   another way: given a functional program, I feel only
+   confident if I can do enough other significant things
+   to it besides easy[striked out three times] carrying it out. And those I don’t
+   see yet. The almost total absence of redundancy
+   is another aspect of the same worry. In the case
+   of a traditional program we know how to make it
+   redundant: by inserting assertions, combination
+   of text and assertions makes it into a logically
+   tightly knit whole, that gives me confidence. How
+   do we this with functional programs? By supplying
+   two of them and an argument that demonstrates
+   their equivalence?
+
+     What about the following example? (My notation
+   because I lack the fluency in yours.)
+
+
+   (1)   Consider the function f defined by:
+       f(0) = 0, f(1) = 1, f(2n) = f(n), f(2n+1) = f(n) + f(n+1)
+
+   (2)   Consider the following program (“peven” = “positive and even”,
+       so for “podd”)
+
+   {N>=0} n, a, b := N, 1, 0;
+   _do_ peven(n) -> a, n := a + b, n/2
+     [] podd(n)  -> b, n := b + a, (n-1)/2
+   _od_ {b=f(N)}
+
+   Here (1) gives a recursive definition of f, (2) gives
+   a repetitive program. Both definitions can be translated
+   in a straightforward manner into functional programs.
+   What would be involved in the demonstration of their
+   equivalence?
+
+      The above seems to me little example of the appropriate
+   degree of sophistication to try your hands on. (I am
+  not going to try it myself, as I fear that my past
+  experience would misguide me: I am afraid that I
+  wouldn’t rise above the level of translating (2)’s
+  traditional correctness proof - with which I am very
+  familiar - in an unfamiliar notation. Good luck!)
+
+      With my greetings and warmest regards,
+                      yours ever
+                              _Edsger_
+
+   P.S. Please note my new postal code: 5671 AL
+   (capitals obligatory) _in front of_ the village name
+                                                        EWD.
