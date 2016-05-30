@@ -7,8 +7,8 @@ U.S.A.
 
 Dear John,
 thank you for your long --and nice!-- letter of March 28, 1979,
-which arrived this morning. Let me quote from a letter from an other friend
-who commented on EWD 692:
+which arrived this morning. Let me quote from a letter from another friend
+who commented on EWD692:
 
 "[you wrote] "show how repetitive Backus writes". An adverb is required.
 But better "to reveal his repetitious style".
@@ -39,7 +39,7 @@ know the rule perfectly well. My problem is that in Dutch the adverb has
 all but disappeared a few centuries ago, and when writing English I have to
 apply the rule consciously. Thanks for the reminder.[...]
 EWD692 is not intended for wide distribution, it betrays too much an-
-noyanceat the fact that Backus presented his thing by way of Turing lecture,
+noyance at the fact that Backus presented his thing by way of Turing lecture,
 the glamour of which immediate caused the significance of functional pro-
 gramming to be overrated beyond justification. I noticed false hopes within
 [... ... ...]and some compensating noises seemed required; EWD692, I am
@@ -56,12 +56,12 @@ are safe tools, so let's use them by all means whenever they are appropriate!"
 
 I trust that the above quotation from my letter explains what EWD692
 was: a political pamphlet where a political pamphlet seemed needed, a need
-that, I hope unintentionally , you yourself had created . My guess is that,
+that, I hope unintentionally, you yourself had created. My guess is that,
 had you fully realized the glamour of the Turing Lecture --and the lack of
 independent judgement of most of its audience-- you had made more sober use
 of your eloquence.
 
-You raise the question why I did not send you a copy . Of course I
+You raise the question why I did not send you a copy. Of course I
 thought about it. I can reassure you that it was not that I was "too embarrassed".
 Well, you have given the answer yourself on page 4 of your
 letter "Perhaps the worst aspects of an emotional attack such as EWD692
@@ -79,14 +79,14 @@ the basis that since they are the opinions of Dijkstra they must be right and
 do not need the careful justification that the opinions of others require."
 I am unaware of any "need to be at stage center", on the contrary! The vast
 majority of invitations to speak I decline, almost none of my writings are
-submitted for publication , and I send my writings to about a dozen people.
+submitted for publication, and I send my writings to about a dozen people.
 Does that reveal "a need to be at stage center"? I don't think so. And
 what "recent polemics" did you have in mind? My comments on the DoD languages?
-If so , it might clarify the situation for you to know that I did not offer
+If so, it might clarify the situation for you to know that I did not offer
 them to the SIGPLAN Notices, but that their editor asked me whether he would
 be allowed to include them. And for the fact that they contained "my private
 opinions" no apology is needed: that was what had been asked for by the DoD.
-Dr do you have my comments on the DeMillo/Lipton/Perlis paper in the Software
+Or do you have my comments on the DeMillo/Lipton/Perlis paper in the Software
 Engineering Notes in mind? Again I draw your attention to the fact that they
 have been included upon their Editor's request, and that I abstained from
 joining the subsequent discussion. (I shall not deny that my comments on
@@ -95,8 +95,8 @@ blokes had asked for such a treatment, and I was perfectly willing to show
 them that two could play at that game.)
 
 Furthermore you need not worry about my "ego"; in large parts of my
-country the "ego" is considered as a not very helpful invention of t he
-psychologists and we very much doubt whether it makes much sense t o have
+country the "ego" is considered as a not very helpful invention of the
+psychologists and we very much doubt whether it makes much sense to have
 one: "explanation" of people's behaviour in terms of it is seldomly inspiring .
                               *               *
                                       *
@@ -107,7 +107,7 @@ fine programming language semantics independent of any underlying computational
 
 -4-
 
-model , and subsequently allow you to deal with the correctness issue fully
+model, and subsequently allow you to deal with the correctness issue fully
 ignoring that the program text allows admits the interpretation of executable
 code. Once you have learned how to reason about the correctness of programs
 without dragging computational histories into the picture,the arguments doing

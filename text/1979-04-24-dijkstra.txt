@@ -10,8 +10,8 @@ Dear John,
 thank you very much for your --also nice !-- letter of 18th April 1979.
 You are very honest and the letter is illuminating . You write:
 
-"The real course of computer science i s determined, in the long run at
-least, by new truths and discoveries, new techniques , new insights not by
+"The real course of computer science is determined, in the long run at
+least, by new truths and discoveries, new techniques, new insights not by
 the opinions of people without "independent judgement" that are influenced
 by political pamphlets."
 
@@ -46,7 +46,7 @@ I was worried about the impression made upon the non-expert --the "ninny"--
 whose opinion matters for the sake of its consequences. I had good reason
 to be worried about that. You are not the person to be overawed by the
 "glamour" [my god!] of the Turing lecture, but, regretfully enough, not all
-people a re that immune. Please reread the first paragraph of p.2 of my pre-
+people are that immune. Please reread the first paragraph of p.2 of my pre-
 vious letter --in the meantime you are free to change the word "hope" of the
 3rd line into "fully trust"-- .
 
@@ -59,7 +59,7 @@ created. And again : whether these were the opinions of people you care
 about, is neither here nor there.....
 
 You write "What am I to make of this response? " Can I help you by
-stressing that I make a great difference be tween "your work" and "your
+stressing that I make a great difference between "your work" and "your
 Turing lecture"? I regard --and continue to regard-- your work (as I wrote)
 as "a valid research effort".
 

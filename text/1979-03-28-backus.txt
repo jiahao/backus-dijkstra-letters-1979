@@ -46,7 +46,7 @@ in EWD692.
 First, you have wasted I do not know how much time in writing
 a five page review about an article that interests you so little
 that you have barely read it and have thought about it almost not at
-all . I really would have been pleased had you raised some important
+all. I really would have been pleased had you raised some important
 issues or criticisms about it; this might have led to an interesting
 and perhaps useful debate. But since you begin with an ego-driven
 impulse to attack and "grandstand" rather than understand, your
@@ -54,7 +54,7 @@ review deals consistently with trivial matters.
 
                               -2-
 
-For example, had you been concerned with under st anding, instead
+For example, had you been concerned with understanding, instead
 of your waspish remarks about my claim that there are advantages
 in having a programming language that can also serve as a proof
 language, you might have begun a significant debate concerning the
@@ -122,10 +122,10 @@ that I do not understand the ideas of axiomatic semantics. You
 were wrong again. And gratuitously offensive.
 
 4) Let me conclude this list with a constant practice of yours, in
-this as well as in many other reviews, that you should be a ware of,
-because . although it is a ludicrous matter, it a muses many people
+this as well as in many other reviews, that you should be aware of,
+because although it is a ludicrous matter, it amuses many people
 mightily at your expense. I refer to your practice of making much
-of people's mistakes in their use of English, by out right remarks,
+of people's mistakes in their use of English, by outright remarks,
 by numerous "[sic!]"s and the like. This would merely be unpleasant
 and result in hurt feelings were it not for the fact that the author
 of these snide comments himself commits some of the most glorious
@@ -149,16 +149,16 @@ pleasant qualities. Perhaps you were unaware of how you then appear
 to others; I imagine you were. Perhaps no one has taken on the un-
 pleasant task of trying to show you this. Since I would like to
 continue to regard you as a friend, I am obliged to try; for if you
-continue t o use me as you have on this occasion, it will be difficult
+continue to use me as you have on this occasion, it will be difficult
 for us to have a good relationship. I hope I have not been excessively
 harp in my criticism; I really do hope it will have some positive value
-or you. Had I not had considerable admiration and good feeling toward
-you to begin with, I assure you I would not have taken the trouble t o
+for you. Had I not had considerable admiration and good feeling toward
+you to begin with, I assure you I would not have taken the trouble to
 write this difficult letter.
 
 Part of my feeling toward you is founded on a sense of comrade-
 ship that comes from the struggle of doing creative work, work that
-is something exhilarating and often discouraging and painful. One
+is sometimes exhilarating and often discouraging and painful. One
 develops a special regard for others who share in this search for
 truth and endure the many defeats that come before one can isolate
 a new bit of truth. Until recently I had regarded you as someone
@@ -175,7 +175,7 @@ and opinionated. One of the crucial battles we all must fight
 if we are interested in the truth is the battle with our own ego,
 the primary enemy of objective truth.
 
-What dismayed me about EWD6 92 was its lack of respect for a co-
+What dismayed me about EWD692 was its lack of respect for a co-
 worker, for his dedication, like yours, to finding some useful truths.
 If you are going to attack, do it well, do it with respect, think it
 out. Don't rely on waspish comments and innuendo. Your attack was
@@ -216,7 +216,7 @@ a copy. The contrast is puzzling: which of the two EWD's are you?
 
 Well, Edsger, I look forward to hearing your reaction. I do hope
 that you will recognize that, although I have said some things that you
-will not enjoy hearing , I have said them in an effort to continue a
+will not enjoy hearing, I have said them in an effort to continue a
 relationship that I have valued and that would have become impossible
 otherwise. I hope you will find this letter of some value to you , and
 that we can straighten these difficulties out.

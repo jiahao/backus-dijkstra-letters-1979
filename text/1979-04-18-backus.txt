@@ -46,7 +46,7 @@ emphasis on political rather than computer science activities,
 and the cause for that emphasis. Apparently you cannot see the danger
 and even less the cause. That saddens me because it means that in-
 evitably you will waste a lot of your time and talent. If you cannot
-even suspect your efforts to woo the "great unwashed masses" with EWD 692
+even suspect your efforts to woo the "great unwashed masses" with EWD692
 (for who else would take seriously such a hasty and obvious political
 pamphlet?) was a consequence of hubris, if you really believe you are
 free of a problem that affects all of humanity, and you more than most,
@@ -60,7 +60,7 @@ computer science is determined, in the long run at least, by new
 truths and discoveries, new techniques, new insights, not by the
 opinions of people without "independent judgement" that are influenced
 by political pamphlets. Thus Demillo-Lipton-Perlis might influence
-a lot of ninnies with their political pamphlet , and yours might change
+a lot of ninnies with their political pamphlet, and yours might change
 their minds again, but in the long haul the fate of program verification
 depends on the realities of the progress made in the field and its
 real usefulness as determined by competent people who can see for them-
@@ -69,13 +69,13 @@ reply will have much bearing on the outcome, except that a lot of
 ninnies will be induced to cheer for one side or the other.
 
 Similarly, if it turns out that the proposals I have made have
-flaws that make them useless, EWD6 2 will not contribute to their
+flaws that make them useless, EWD692 will not contribute to their
 discovery and will then appear as the foolish tempest in a teapot
 that it is. If it turns out otherwise, EWD692 will appear as evidence
 of your poor insight and envious hostility. In either case you will
 have wasted time and tarnished your reputation.
 
-I am sorry that your friend feels that I have mad e an "ill-founded
+I am sorry that your friend feels that I have made an "ill-founded
 attack on proofs of program correctness". Perhaps you feel that too.
 I assure you that was not my intent, and I think that if your friend
 were to read carefully, he would find that I am attacking certain
