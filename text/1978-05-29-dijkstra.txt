@@ -15,7 +15,7 @@ to John Backus
    Dear John,
 
      I do not claim to be more noble or sensible than “most
-   experts”; perhaps it is only becauseI have only one
+   experts”; perhaps it is only because I have only one
    assistant to whom I can delegate no more than one
    man can do. But when you open your letter with:
        “I am quite sure that you have never read
@@ -82,7 +82,7 @@ to John Backus
    proofs are carried out in (nearly) the same formalism
    as the program is expressed in. On the one hand that
    presents a tempting unification, on the other hand I
-   thought that mathematicians speerated carefully and
+   thought that mathematicians separated carefully and
    for good reasons the language they talk about and
    the metalanguage in which they do so. To put it in
    another way: given a functional program, I feel only
