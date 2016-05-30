@@ -14,7 +14,7 @@ in answering. I am happy to hear that you will give a talk at
 the IBM San Jose Lab. I am pleased to report that I have been
 able to arrange for special honorarium in your case, thus I can
 say that the lab offers to pay your local expenses (travel, lodging,
-meals, etc.) associated with your visit to the lab , plus an honorarium
+meals, etc.) associated with your visit to the lab, plus an honorarium
 of $300. Any day in August or September that you suggest will be
 fine (although John William hopes it won't be in the week of August
 20, since he will be on vacation then). I presume that you may want
@@ -35,14 +35,14 @@ expression plus theorems of greater generality and usefulness that
 can be used to help guide the construction of a program and
 to guarantee its correctness. We shall see.
 
-If you will end me an abstract of your talk, it will
+If you will send me an abstract of your talk, it will
 help in publicizing it. (By the way, the topic you suggest
 sounds very interesting, there are a number of people at the
 lab who are interested in distributed computation.) There
 is considerable excitement here at the news that you will be
 giving a talk. I plan on having it publicized in the San Jose
-R search lab, the Santa Teresa lab (develops programs, quite
-a large place), the Loa Gatos lab, and a number of other IRM
+Research lab, the Santa Teresa lab (develops programs, quite
+a large place), the Loa Gatos lab, and a number of other IBM
 places in the Bay Area.
 
 In closing, let me say that I appreciated your last letter.
