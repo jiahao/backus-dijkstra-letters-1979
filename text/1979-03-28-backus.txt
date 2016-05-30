@@ -54,7 +54,7 @@ review deals consistently with trivial matters.
 
                               -2-
 
-For example, had you been concerned with under standing, instead
+For example, had you been concerned with understanding, instead
 of your waspish remarks about my claim that there are advantages
 in having a programming language that can also serve as a proof
 language, you might have begun a significant debate concerning the
