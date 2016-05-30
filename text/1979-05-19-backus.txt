@@ -42,7 +42,7 @@ lab who are interested in distributed computation.) There
 is considerable excitement here at the news that you will be
 giving a talk. I plan on having it publicized in the San Jose
 Research lab, the Santa Teresa lab (develops programs, quite
-a large place), the Loa Gatos lab, and a number of other IBM
+a large place), the Los Gatos lab, and a number of other IBM
 places in the Bay Area.
 
 In closing, let me say that I appreciated your last letter.
