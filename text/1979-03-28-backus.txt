@@ -84,7 +84,7 @@ As noted earlier in my article, [ 5.1 (f) and 5.2 (f)], the point of the
 remark that the matrix program does not name its variables is
 that it does not require a procedure declaration nor the accompanying
 object program machinery that replaces formal variables by actual
-ones. Your suggestion about using "parl" etc in Algol would not
+ones. Your suggestion about using "par1" etc in Algol would not
 eliminate the need for such machinery. (Since this machinery
 forms one of the principal stumbling blocks to the convenient
 use of the proof methods you and Hoare have pioneered, it is surprising
